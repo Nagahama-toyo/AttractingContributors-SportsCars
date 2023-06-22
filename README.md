@@ -35,3 +35,4 @@ Goal - I want contributors to help me list prefecture you are from.
 8. Fukui
 9. Osaka
 10. Incheon Metropolitan City, Republic of Korea
+11. Shiga/Japan
