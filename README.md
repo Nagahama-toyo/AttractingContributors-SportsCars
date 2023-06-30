@@ -31,6 +31,7 @@ To complete the assignment, please do the following:
 - Fit(Honda)
 - Cayenne (porsche)
 - Lamborghini Aventator
+- Orochi (Mitsuoka)
 - MAZDA ROADSTER
 - Land Cruiser (TOYOTA)
 
